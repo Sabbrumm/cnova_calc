@@ -1,0 +1,3 @@
+C:/Users/Sabbrumm/CLionProjects/C-NOVA/cnova_calc/cmake-build-debug/CMakeFiles/cnova_calc.dir
+C:/Users/Sabbrumm/CLionProjects/C-NOVA/cnova_calc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sabbrumm/CLionProjects/C-NOVA/cnova_calc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
